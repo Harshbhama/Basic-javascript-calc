@@ -1,0 +1,179 @@
+#final-outer-box{
+
+	    margin-right: 20%;
+    margin-left: 20%;
+    background-color: grey;
+}
+
+#text-style{
+
+		height: 50px;
+	width: 308px;
+	    background-color: lightsteelblue;
+}
+
+#upper-box{
+
+
+	height: 50px;
+	width: 308px;
+	background-color: #80808021;
+	margin-left: auto;
+    margin-right: auto;
+       margin-top: 8%;
+}
+
+
+
+#outer-box{
+	/*background-color: red;*/
+	height: 400px;
+	width: 300px;
+	margin-left: auto;
+    margin-right: auto;
+     /*   margin-top: 8%;*/
+            border: solid;
+
+    
+  
+}
+input[type=button]{
+
+	width: 56px;
+    height: 85px;
+    margin-top: 14px;
+    background-color: lightgray;
+}
+
+#first-box{
+
+		display: flex;
+}
+
+#one{
+	display: flex;
+	height: 100px;
+	width: 100px;
+	margin-left: 36px;
+		/*background-color: blue;*/
+}
+#two{
+display: flex;
+height: 100px;
+	width: 100px;
+		/*background-color: purple;*/
+}
+#three{
+display: flex;
+height: 100px;
+	width: 100px;
+		/*background-color: black;*/
+}
+
+
+#second-box{
+
+		display: flex;
+		margin-top: -16px;
+}
+
+#four{
+	display: flex;
+	height: 100px;
+	width: 100px;
+	margin-left: 36px;
+		/*background-color: blue;*/
+}
+#five{
+display: flex;
+height: 100px;
+	width: 100px;
+		/*background-color: purple;*/
+}
+#six{
+display: flex;
+height: 100px;
+	width: 100px;
+		/*background-color: black;*/
+}
+
+
+
+#third-box{
+
+		display: flex;
+		margin-top: -16px;
+}
+
+#seven{
+	display: flex;
+	height: 100px;
+	width: 100px;
+	margin-left: 36px;
+		/*background-color: blue;*/
+}
+#eigth{
+display: flex;
+height: 100px;
+	width: 100px;
+		/*background-color: purple;*/
+}
+#ninth{
+display: flex;
+height: 100px;
+	width: 100px;
+		/*background-color: black;*/
+}
+
+
+
+
+
+
+
+
+#forth-box{
+
+		display: flex;
+		margin-top: -16px;
+}
+
+#somth-1{
+	display: flex;
+	height: 100px;
+	width: 100px;
+	/*margin-left: 36px;*/
+		/*background-color: blue;*/
+}
+#somth-2{
+display: flex;
+height: 100px;
+	width: 100px;
+		/*background-color: purple;*/
+}
+#somth-3{
+display: flex;
+height: 100px;
+	width: 100px;
+		/*background-color: black;*/
+}
+#somth-4{
+display: flex;
+height: 100px;
+	width: 100px;
+		/*background-color: black;*/
+}
+#somth-5{
+display: flex;
+height: 100px;
+	width: 100px;
+		/*background-color: black;*/
+}
+
+h1{
+
+	    color: darkblue;
+    text-align: center;
+    margin-bottom: -20px;
+}
+
